@@ -1,0 +1,21 @@
+.pie {
+    background-color: var(--negro);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 16px;
+
+}
+
+.pie h2 {
+    color: var(--blanco);
+    font-size: 20px;
+}
+
+h2 img {
+    width: 50px;
+}
+img{
+    width: 64px;
+}

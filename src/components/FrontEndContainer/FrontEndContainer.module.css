@@ -1,0 +1,13 @@
+.frontBox {
+  width: 60%; /* Ajusta el ancho según lo necesites */
+  height: 60px; /* Ajusta la altura según lo necesites */
+  background-color: rgba(0, 0, 255, 0.2); /* Color azul con 20% de transparencia */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frontendcontainer {
+  font-size: 32px; /* Ajusta el tamaño de fuente según lo necesites */
+  color: black; /* Ajusta el color del texto según lo necesites */
+}
